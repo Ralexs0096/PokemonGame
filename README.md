@@ -1,24 +1,33 @@
-# 04-pokemon-game
+# Pokemon Game Vue
 
-## Project setup
-```
-yarn install
-```
+Vue App using Poke-Api
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Run Locally
 
-### Compiles and minifies for production
-```
-yarn build
+Clone the project
+
+```bash
+  git clone https://github.com/Ralexs0096/PokemonGame
 ```
 
-### Run your unit tests
-```
-yarn test:unit
+Go to the project directory
+
+```bash
+  cd pokemonGame
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run serve
+```
+
+## Demo
+
+https://vue3-pokemon-game-0096.netlify.app/
